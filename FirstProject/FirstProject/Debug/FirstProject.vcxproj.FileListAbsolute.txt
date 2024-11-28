@@ -1,0 +1,3 @@
+C:\Users\abrow\OneDrive\Documents\Visual Studio 2019\Projects\FirstProject\FirstProject\Debug\FirstProject.vcxproj.AssemblyReference.cache
+C:\Users\abrow\OneDrive\Documents\Visual Studio 2019\Projects\FirstProject\FirstProject\Debug\FirstProject.MyForm.resources
+C:\Users\abrow\OneDrive\Documents\Visual Studio 2019\Projects\FirstProject\FirstProject\Debug\FirstProject.vcxproj.GenerateResource.cache
