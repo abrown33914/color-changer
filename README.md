@@ -15,7 +15,7 @@ A fun Windows Forms app built with C++/CLI in Visual Studio 2019! Created as a *
 ---
 
 ## 🎥 Demo  
-![Demo Video](color-changer/demo.gif)
+![Demo Video](demo.gif)
 
 ---
 
